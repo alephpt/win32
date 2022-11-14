@@ -1,0 +1,3 @@
+﻿  ReadFile.cpp
+C:\Users\aleph\source\repos\ReadFile\ReadFile\ReadFile.cpp(17,30): warning C4302: 'type cast': truncation from 'const char *' to 'wchar_t'
+  ReadFile.vcxproj -> C:\Users\aleph\source\repos\ReadFile\x64\Debug\ReadFile.exe
